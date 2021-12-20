@@ -21,7 +21,9 @@ Las notebooks incluidas son:
 
 - Data Wrangling: 1.desafio_final_grupo3_limpieza
 - EDA: 2.desafio_final_grupo3_visualizacion
-- Matching Learning (Logístico): 3.desafio_final_grupo3_entrenamiento_logistico
+- Matching Learning:
+				3.ML_Boosting_algorithms
+				3.desafio_final_grupo3_entrenamiento_logistico
 
 --------------------------------------------------------------------------------------------
 

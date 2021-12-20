@@ -5,7 +5,9 @@ Este proyecto fue realizado en el contexto del curso de Data Science de Digital 
 
 El lenguaje elegido de programación fue Python, que se implementó en Jupyter Lab.
 
-Las notebooks incluidas aquí son ediciones hechas por mí de las presentadas originalmente por el equipo de trabajo. Las notebooks "3.desafio_final_grupo3_entrenamiento_logistico" y "3.ML_Boosting_algorithms" son de mi autoría exclusivamente.
+Las notebooks incluidas aquí son ediciones hechas por mí de las presentadas originalmente por el equipo de trabajo.
+
+Las notebooks "3.desafio_final_grupo3_entrenamiento_logistico" y "3.ML_Boosting_algorithms" son de mi autoría exclusivamente.
 
 --------------------------------------------------------------------------------------------
 

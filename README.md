@@ -3,15 +3,9 @@ Análisis de campaña de marketing bancario para vender plazos fijos.
 
 Este proyecto fue realizado en el contexto del curso de Data Science de Digital House durante 2021.
 
-Es el resultado de un trabajado en equipo que contó con 4 integrantes:
-- Alen Jiménez (jimenezalen@gmail.com)
-- Luz Fox (luzflor2007@gmail.com)
-- Enrique Olmos (e.olmosk@gmail.com)
-- Mariano Ayerza (nanoayerza@yahoo.com)
-
 El lenguaje elegido de programación fue Python, que se implementó en Jupyter Lab.
 
-Las notebooks incluidas aquí son ediciones hechas por mí de las presentadas originalmente por el equipo de trabajo.
+Las notebooks incluidas aquí son ediciones hechas por mí de las presentadas originalmente por el equipo de trabajo. Las notebooks "3.desafio_final_grupo3_entrenamiento_logistico" y "3.ML_Boosting_algorithms" son de mi autoría exclusivamente.
 
 --------------------------------------------------------------------------------------------
 
@@ -57,4 +51,13 @@ social and economic context attributes
 Output variable (desired target):
 - 21 - y - has the client subscribed a term deposit? (binary: "yes","no")
 Missing Attribute Values: There are several missing values in some categorical attributes, all coded with the "unknown" label. These missing values can be treated as a possible class label or using deletion or imputation techniques.
+
+--------------------------------------------------------------------------------------------
+
+Los integrantes del equipo de trabajo fueron:
+- Alen Jiménez (jimenezalen@gmail.com)
+- Luz Fox (luzflor2007@gmail.com)
+- Enrique Olmos (e.olmosk@gmail.com)
+- Mariano Ayerza (nanoayerza@yahoo.com)
+
 

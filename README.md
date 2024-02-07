@@ -1,4 +1,4 @@
-# venta-plazo-fijo
+# Predict Purchase of Fixed Term Deposits
 Campaign analysis of banking marketing to sell fixed-term deposits.
 
 This project was carried out in the context of the Data Science course at Digital House (Buenos Aires, Argentina) during 2021.
